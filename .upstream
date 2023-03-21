@@ -1,0 +1,5 @@
+{
+    "name": "yaap",
+    "fetch": "https://github.com/yaap/prebuilts_r8",
+    "revision": "refs/heads/thirteen"
+}
